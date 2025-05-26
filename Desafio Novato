@@ -6,8 +6,7 @@ int main(){
     char codigo[50];
     char nomecidade[50];
     int populacao;
-    float area;
-    float PIB;
+    float area, PIB;
     int tur;
 
     printf("Escolha qual letra da carta deseja: ");
