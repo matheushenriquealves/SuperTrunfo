@@ -32,7 +32,7 @@ int main(){
     densidade = populacao / area;
     pibpercapita = PIB / populacao;
 
-    printf("Carta 1: \nEstado: %s\nCodigo: %s\nNome da cidade: %s\nPopulacao: %d\nArea: %f km²\nPIB: %f bilhoes de reais\nPontos turisticos: %d\n",
+    printf("Carta 1: \nEstado: %s\nCodigo: %s\nNome da cidade: %s\nPopulacao: %d\nArea: %f km²\nPIB: %f bilhões de reais\nPontos turisticos: %d\n",
         letraestado, codigo, nomecidade, populacao, area, PIB, tur);
     printf("Densidade populacional: %.2f\nPIB per capita: %.2f reais\n", densidade, pibpercapita);
 
@@ -60,7 +60,7 @@ int main(){
     densidade = populacao / area;
     pibpercapita = PIB / populacao;
 
-    printf("Carta 2: \nEstado: %s\nCodigo: %s\nNome da cidade: %s\nPopulacao: %d\nArea: %f km²\nPIB: %f bilhoes de reais\nPontos turisticos: %d\n",
+    printf("Carta 2: \nEstado: %s\nCodigo: %s\nNome da cidade: %s\nPopulacao: %d\nArea: %f km²\nPIB: %f bilhões de reais\nPontos turisticos: %d\n",
         letraestado, codigo, nomecidade, populacao, area, PIB, tur);
     printf("Densidade populacional: %.2f\nPIB per capita: %.2f reais\n", densidade, pibpercapita);
 
