@@ -74,7 +74,7 @@ int main(){
     printf("Qual carta venceu em área? %d\n", (area1 > area2));
     printf("Qual carta venceu em PIB? %d\n", (PIB1 > PIB2));
     printf("Qual carta venceu em pontos turisticos? %d\n", (tur1 > tur2));
-    printf("Qual carta venceu em densidade populacional? %d\n", (densidade1 > densidade2));
+    printf("Qual carta venceu em densidade populacional? %d\n", (densidade1 < densidade2));
     printf("Qual carta venceu em PIB per capita? %d\n", (pibpercapita1 > pibpercapita2));
     printf("Qual carta teve mais Super Poder? %d\n", (SuperPoder1 > SuperPoder2));
 
